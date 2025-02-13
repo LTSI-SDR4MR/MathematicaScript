@@ -7,7 +7,7 @@ We would like to propose a simple and cost-effective solution to specifically so
 
 *a Mathematica script which provides a summary analysis of WAV files recorded by the software-defined radio during an MR pulse sequence. 
 # Mathematica script
-This open source project is for Mathematica (Wolfram Language). This is a basic version given as a notebook .nb file. For the moment the variables and comments are in French.
+This open source project is for Mathematica (Wolfram Language). This is a basic version given as a notebook .nb file. For the moment the variables and comments are in French. The printout of the .nb file is added in pdf format to the project.
 # License matters
 All code files and executable documents are with the license GPL 3.0. For details see http://www.gnu.org/licenses/ .
 
