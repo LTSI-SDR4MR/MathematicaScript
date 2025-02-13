@@ -17,4 +17,4 @@ An example wav file of a SE-EPI (SpinEcho-Echo Planar Imaging) diffusion weighte
 # Limits
 Please consider that this is a simple illustrative version of the method that can, and must, be improved.
 # 
-Hervé Saint-Jalmes 13/02/2024
+Hervé SAINT-JALMES & Kouame Ferdinand KOUAKOU 13/02/2024
